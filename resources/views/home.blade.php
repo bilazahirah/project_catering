@@ -7,7 +7,7 @@
 </head>
 <body>
     <div classname="container">
-        <h1 class="">Welcome to the Home Page</h1>
+        <h1 class="">bila</h1>
         <p>This is a simple Laravel Blade template.</p>
     </div>
 </body>
